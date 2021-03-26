@@ -1,7 +1,7 @@
 proxies:
   - {name: hajimxmiku-maxis, server: 139.99.61.223, port: 2443, type: trojan, password: andwhoaml, sni: api-cua.maxis.com.my, skip-cert-verify: true, udp: true}
   - {name: hajimxmiku-umobile, server: 139.99.61.223, port: 2443, type: trojan, password: andwhoaml, sni: www.pubgmobile.com, skip-cert-verify: true, udp: true}
-  - {name: hajimxmiku-digi-v2, server: 139.99.61.223, port: 2443, type: trojan, password: andwhoaml, sni: digicomms-stag.digi.com.my, skip-cert-verify: true, udp: true}
+  - {name: hajimxmiku-digi-v3, server: 139.99.61.223, port: 2443, type: trojan, password: andwhoaml, sni: st.digi.com.my, skip-cert-verify: true, udp: true}
 
 proxy-groups:
   - name: 🚀 节点选择
