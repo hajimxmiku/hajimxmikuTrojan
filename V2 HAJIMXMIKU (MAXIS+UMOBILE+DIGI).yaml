@@ -3,10 +3,10 @@ proxies:
   - {name: hajimxmiku-umobile, server: 139.99.61.223, port: 2443, type: trojan, password: andwhoaml, sni: www.mobilelegends.com, skip-cert-verify: true}
   - {name: hajimxmiku-digi, server: 139.99.61.223, port: 2443, type: trojan, password: andwhoaml, sni: st.digi.com.my, skip-cert-verify: true}
   - {name: hajimxmiku-celcom, server: 139.99.61.223, port: 2443, type: trojan, password: andwhoaml, sni: ookla.speedtest.net, skip-cert-verify: true}
-  - {name: hajimxmiku-maxis-v2, server: 128.199.157.157, port: 80, type: trojan, password: f96b13bc-1e85-41fb-b736-6f87350d977f, sni: st.digi.com.my, skip-cert-verify: true}
-  - {name: hajimxmiku-umobile-v2, server: 128.199.157.157, port: 80, type: trojan, password: f96b13bc-1e85-41fb-b736-6f87350d977f, sni: www.mobilelegends.com, skip-cert-verify: true}
-  - {name: hajimxmiku-digi-v2, server: 128.199.157.157, port: 80, type: trojan, password: f96b13bc-1e85-41fb-b736-6f87350d977f, sni: st.digi.com.my, skip-cert-verify: true}
-  - {name: hajimxmiku-celcom-v2, server: 128.199.157.157, port: 80, type: trojan, password: f96b13bc-1e85-41fb-b736-6f87350d977f, sni: ookla.speedtest.net, skip-cert-verify: true}
+  - {name: hajimxmiku-maxis-v2, server: 128.199.96.234, port: 8080, type: trojan, password: hajim, sni: www.pubgmobile.com, skip-cert-verify: true}
+  - {name: hajimxmiku-umobile-v2, server: 128.199.96.234, port: 8080, type: trojan, password: hajim, sni: www.carbonracer.net, skip-cert-verify: true}
+  - {name: hajimxmiku-digi-v2, server: 128.199.96.234, port: 8080, type: trojan, password: hajim, sni: st.digi.com.my, skip-cert-verify: true}
+  - {name: hajimxmiku-celcom-v2, server: 128.199.96.234, port: 8080, type: trojan, password: hajim, sni: ookla.speedtest.net, skip-cert-verify: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
