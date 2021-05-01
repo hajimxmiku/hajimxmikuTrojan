@@ -1,5 +1,5 @@
 proxies:
-  - {name: hajimxmiku-maxis, server: 139.99.61.223, port: 2443, type: trojan, password: andwhoaml, sni: st.digi.com.my, skip-cert-verify: true}
+  - {name: hajimxmiku-maxis, server: 139.99.61.223, port: 2443, type: trojan, password: andwhoaml, sni: www.carbonracer.net, skip-cert-verify: true}
   - {name: hajimxmiku-umobile, server: 139.99.61.223, port: 2443, type: trojan, password: andwhoaml, sni: www.mobilelegends.com, skip-cert-verify: true}
   - {name: hajimxmiku-digi, server: 139.99.61.223, port: 2443, type: trojan, password: andwhoaml, sni: st.digi.com.my, skip-cert-verify: true}
   - {name: hajimxmiku-celcom, server: 139.99.61.223, port: 2443, type: trojan, password: andwhoaml, sni: ookla.speedtest.net, skip-cert-verify: true}
