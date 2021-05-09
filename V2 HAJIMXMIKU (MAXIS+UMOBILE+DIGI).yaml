@@ -4,7 +4,7 @@ proxies:
   - {name: hajimxmiku-digi, server: 139.99.61.223, port: 2443, type: trojan, password: andwhoaml, sni: st.digi.com.my, skip-cert-verify: true}
   - {name: hajimxmiku-celcom, server: 139.99.61.223, port: 2443, type: trojan, password: andwhoaml, sni: ookla.speedtest.net, skip-cert-verify: true}
   - {name: hajimxmiku-maxis-v2, server: 128.199.96.234, port: 8080, type: trojan, password: hajim, sni: www.pubgmobile.com, skip-cert-verify: true}
-  - {name: hajimxmiku-umobile-v2, server: 128.199.96.234, port: 8080, type: trojan, password: hajim, sni: www.carbonracer.net, skip-cert-verify: true}
+  - {name: hajimxmiku-umobile-v2, server: acs.u.com.my.hajimxmiku1.ml, port: 443, type: trojan, password: miku2, sni: www.carbonracer.net, skip-cert-verify: true}
   - {name: hajimxmiku-digi-v2, server: 128.199.96.234, port: 8080, type: trojan, password: hajim, sni: st.digi.com.my, skip-cert-verify: true}
   - {name: hajimxmiku-celcom-v2, server: 128.199.96.234, port: 8080, type: trojan, password: hajim, sni: ookla.speedtest.net, skip-cert-verify: true}
 proxy-groups:
